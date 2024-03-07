@@ -1,0 +1,5 @@
+print("Hello!")
+input("Press Enter")
+print("Enter was pressed!")
+x=input("Enter a message")
+print(x)
