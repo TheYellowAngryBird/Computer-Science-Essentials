@@ -1,0 +1,8 @@
+print("Welcome to the Multiplication Calculator")
+print("This Calculator multiplies two numbers given by the user.")
+print("Enter a number")
+x=int(input())
+print("Enter another number")
+y=int(input())
+print("Your answer is:")
+print(x*y)
