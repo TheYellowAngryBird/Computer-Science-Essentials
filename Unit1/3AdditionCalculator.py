@@ -1,0 +1,8 @@
+print("Welcome to the Addition Calculator")
+print("This Calculator adds two numbers given by the user.")
+print("Enter a number")
+x=int(input())
+print("Enter another number")
+y=int(input())
+print("Your answer is:")
+print(x+y)
